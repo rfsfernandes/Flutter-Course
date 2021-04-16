@@ -8,8 +8,10 @@ void main() {
           backgroundColor: Colors.blueGrey[900],
           title: Text("I'm a title"),
         ),
-        body: Image(
-
+        body: Center(
+          child: Image(
+            image: AssetImage('images/diamond.png'),
+          ),
         ),
       )
   )
