@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bc10ffb-6f1a-4406-b2bd-767de8320a9e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.visible" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1954" height="406" key="GridCell.Tab.0.bottom" timestamp="1618766359514">
+      <screen x="69" y="25" width="2491" height="1415" />
+    </state>
+    <state width="1954" height="406" key="GridCell.Tab.0.bottom/2560.329.1536.935/69.25.2491.1415@69.25.2491.1415" timestamp="1618766359514" />
+    <state width="1954" height="406" key="GridCell.Tab.0.center" timestamp="1618766359513">
+      <screen x="69" y="25" width="2491" height="1415" />
+    </state>
+    <state width="1954" height="406" key="GridCell.Tab.0.center/2560.329.1536.935/69.25.2491.1415@69.25.2491.1415" timestamp="1618766359513" />
+    <state width="1954" height="406" key="GridCell.Tab.0.left" timestamp="1618766359513">
+      <screen x="69" y="25" width="2491" height="1415" />
+    </state>
+    <state width="1954" height="406" key="GridCell.Tab.0.left/2560.329.1536.935/69.25.2491.1415@69.25.2491.1415" timestamp="1618766359513" />
+    <state width="1954" height="406" key="GridCell.Tab.0.right" timestamp="1618766359514">
+      <screen x="69" y="25" width="2491" height="1415" />
+    </state>
+    <state width="1954" height="406" key="GridCell.Tab.0.right/2560.329.1536.935/69.25.2491.1415@69.25.2491.1415" timestamp="1618766359514" />
+  </component>
+</project>
